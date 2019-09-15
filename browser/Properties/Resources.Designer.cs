@@ -63,6 +63,26 @@ namespace browser.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _63d3c4278f1fa46692a48514fde6d6cf {
+            get {
+                object obj = ResourceManager.GetObject("63d3c4278f1fa46692a48514fde6d6cf", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap add_to_playlist_icon_29_jpg {
+            get {
+                object obj = ResourceManager.GetObject("add-to-playlist-icon-29.jpg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap f0da727195d739747a412a4153447b6f {
             get {
                 object obj = ResourceManager.GetObject("f0da727195d739747a412a4153447b6f", resourceCulture);

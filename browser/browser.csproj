@@ -120,6 +120,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MetroFramework.txt" />
+    <None Include="Resources\63d3c4278f1fa46692a48514fde6d6cf.png" />
+    <None Include="Resources\add-to-playlist-icon-29.jpg.png" />
     <None Include="Resources\refresh.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
